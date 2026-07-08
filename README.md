@@ -4,12 +4,12 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong> <summary> 🎧 Busy coding & Vibing to... </summary> </strong></p>
-<p>Learning every single day to reach my goals!</p>
+<p><strong> <summary> Busy coding & Vibing to... </summary> </strong></p>
+<p>Learning and building every single day to reach my goals!</p>
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+![Totals Hits](https://komarev.com/ghpvc/?username=D8ERO&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FD8ERO&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 </div>
 
 <hr></hr>
@@ -22,11 +22,13 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ```javascript
-// My Web Development Journey 🚀
+// tools_I_use organized
 
-const developer = {  
-  name: "Hussein Alaa",
-  role: "Self-Taught Frontend Web Developer",
-  currentFocus: "Deep diving into JavaScript & expanding CSS skills",
-  goal: "Full Professional Mastery by 2027 🎯"
-};
+class About extends Me { 
+  const myTools = {  
+    "ProgrammingLanguages" : { "JavaScript" },
+    "OtherLanguages" : { "HTML (Mastered)", "CSS (Very Good)", "Markdown" },
+    "Goal" : "Full Professional Mastery by 2027 🎯",
+    "CurrentStatus" : "Day 1 with JavaScript! 🎉"
+  };
+}
