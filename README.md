@@ -2,9 +2,10 @@
  
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/d13h_n?igsh=MXJ5OGY4dXFlNXloYg==) [![Threads Badge](https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@d13h_n) [![Coursera Badge](https://img.shields.io/badge/-Meta_Certified-0056B3?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/verify/O2TVOJZKBW2E)
  
-Self-Taught Frontend Developer based in Nasiriyah. I am deeply passionate about crafting clean web interfaces, continuous learning, and persistent problem-solving. 
+Self-taught Frontend Developer who is deeply passionate about crafting clean web interfaces, continuous learning, and persistent problem-solving.
 
 As a **Sociology student at the University of Dhi Qar**, I uniquely combine my understanding of human behavior, social trends, and user preferences with modern programming concepts to build intuitive, user-centric web layouts.
+
 
 ## 🔧 What I Work With
  
