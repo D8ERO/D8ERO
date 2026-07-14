@@ -31,3 +31,4 @@ As a **Sociology student at the University of Dhi Qar**, I uniquely combine my u
  
 I believe that code is more than just instructions; it's a way to bridge human interactions with digital platforms. Merging my sociology background with frontend development allows me to look at UI/UX design from a deeply human-centric viewpoint.
 
+
